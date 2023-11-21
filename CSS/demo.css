@@ -1,0 +1,13 @@
+/*
+h1 --> Selector
+   --> White Space
+{  --> Open curly brace
+       property name : property value  
+}  --> closed curly brace
+*/
+h1 {
+    color:greenyellow;
+    text-shadow: 0cap;
+    text-align: center;
+}
+
